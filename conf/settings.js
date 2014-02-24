@@ -1,2 +1,2 @@
-var siteTitle = "P2Pool Consortium Pool";
+var siteTitle = "P2Pool Verta";
 var contactAddress = "pool-contact@emailaddy.com";
